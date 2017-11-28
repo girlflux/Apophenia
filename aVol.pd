@@ -1,0 +1,24 @@
+#N canvas 1073 404 406 210 10;
+#X floatatom 68 53 5 0 0 0 - - -, f 5;
+#X obj 68 71 \$1 20;
+#X obj 68 92 line~;
+#X obj 16 179 outlet~;
+#X obj 67 121 *~;
+#X text 95 121 exponential curve is better for amplitude;
+#X obj 26 21 hsl 128 15 0 1 0 0 empty empty track_volume 4 8 0 10 -261682
+-1 -1 12700 1;
+#X floatatom 160 21 7 0 0 0 - - -, f 7;
+#X obj 15 53 inlet~;
+#X obj 16 151 *~;
+#X obj 115 53 inlet;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 2 0 4 0;
+#X connect 2 0 4 1;
+#X connect 4 0 9 1;
+#X connect 6 0 7 0;
+#X connect 6 0 0 0;
+#X connect 8 0 9 0;
+#X connect 9 0 3 0;
+#X connect 10 0 6 0;
+#X coords 0 -1 1 1 220 26 2 15 15;
