@@ -28,7 +28,7 @@ The <strong>fourth block</strong>, in violet, shows the elements that control th
 The <strong>fifth block</strong>, in red, is the master volume for the entire patch. It has a toggle to turn on and off the dsp, and has a lowpass filter that affects all the input sounds.
 
 <h2>Aknowledgments:</h2>
-<a href="linkedin.com/in/joaogomesreis">João Reis</a>, Nuno Loureiro, <a href="ruipenha.pt">Rui Penha</a>
+<a href="https://linkedin.com/in/joaogomesreis">João Reis</a>, Nuno Loureiro, <a href="https://ruipenha.pt">Rui Penha</a>
 
 <h2>References:</h2>
 <a href="https://forum.pdpatchrepo.info/topic/10666/delay-with-tap-tempo-sync">Delay With Tap Tempo Sync</a>
